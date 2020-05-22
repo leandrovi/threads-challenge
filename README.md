@@ -35,7 +35,7 @@ Bem vindos à minha POC (Proof Of Concept) de uma simples aplicação utilizando
 
 Este desafio foi proposto pelo Prof. Mestre [Gabriel Baptista](https://github.com/gabrielbaptista) na disciplina de Linguagem de Programação II da **FTT**.
 
-O objetivo do desafio era construir uma aplicação simples que possuísse um sistema de mensageria de auditoria **multi-thread**, sendo construída em cima de um Singleton (um excelente Design Pattern :love:).
+O objetivo do desafio era construir uma aplicação simples que possuísse um sistema de mensageria de auditoria **multi-thread**, sendo construída em cima de um Singleton (um excelente Design Pattern :heart:).
 
 ## :wrench: Stack e Tools
 
